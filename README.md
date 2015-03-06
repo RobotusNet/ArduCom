@@ -1,2 +1,0 @@
-# ArduCom
-Arduino Communication Shield
